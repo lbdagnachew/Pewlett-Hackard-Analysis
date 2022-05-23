@@ -16,6 +16,11 @@ The purpose of this analysis is to conduct a Database analysis for Pewlett Hacka
 
 ![EmployeeDB](https://user-images.githubusercontent.com/101952961/169726017-fc1919e6-d7c7-42a9-9f0f-440268bb659c.png)
 
-•	Based on our analysis, there is currently a total of 72,458 employees that will retire soon and 70% of this group hold senior positions (50,842/72,458 * 100) = 70. 16%. The retiring_titles shows the breakdown below:
+•	Retiring Positions: Based on our analysis, there is currently a total of 72,458 employees that will retire soon and 70% of this group hold senior positions (50,842/72,458 * 100) = 70.16%. The retiring_titles shows the breakdown below:
 
 ![Retiring_Titles](https://user-images.githubusercontent.com/101952961/169729644-1354f102-7d97-4c23-b3fb-e45513baaae6.png)
+
+
+•	Mentorship Candidates: Below is the list of candidates that can qualify to become members of the mentorship program. Most of these employees have senior titles.
+
+![Mentorship_Eligibility](https://user-images.githubusercontent.com/101952961/169731049-8fb013c7-f445-49f7-be23-0b873e4fbf4a.png)
