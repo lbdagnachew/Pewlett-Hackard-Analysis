@@ -21,6 +21,6 @@ The purpose of this analysis is to conduct a Database analysis for Pewlett Hacka
 ![Retiring_Titles](https://user-images.githubusercontent.com/101952961/169729644-1354f102-7d97-4c23-b3fb-e45513baaae6.png)
 
 
-•	Mentorship Candidates: Below is the list of candidates that can qualify to become members of the mentorship program. Most of these employees have senior titles.
+•	Mentorship Eligibility: Below is the list of employees that can qualify to become members of the mentorship program. Most of these employees have senior titles.
 
 ![Mentorship_Eligibility](https://user-images.githubusercontent.com/101952961/169731049-8fb013c7-f445-49f7-be23-0b873e4fbf4a.png)
