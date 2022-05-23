@@ -7,8 +7,8 @@ The purpose of this analysis is to conduct a Database analysis for Pewlett Hacka
 
 # Resorces:
 
--Softwate: SQL, PostgreSQL and pgAdmin
--Data Source: departments.csv, dept_emp.csv, dept_manager.csv, employees.csv, salaries.csv, titles.csv
+- Softwate: SQL, PostgreSQL and pgAdmin
+- Data Source: departments.csv, dept_emp.csv, dept_manager.csv, employees.csv, salaries.csv, titles.csv
 
 # Results
 
@@ -24,3 +24,8 @@ The purpose of this analysis is to conduct a Database analysis for Pewlett Hacka
 •	Mentorship Eligibility: Below is the list of employees that can qualify to become members of the mentorship program. Most of these employees have senior titles.
 
 ![Mentorship_Eligibility](https://user-images.githubusercontent.com/101952961/169731049-8fb013c7-f445-49f7-be23-0b873e4fbf4a.png)
+
+
+#Summary
+
+There are 72,458 roles that are in urgent need to be filled out as soon as the workforce starts retiring at any given time. Since a large number of future retirees hold Senior positions, there should be enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees
