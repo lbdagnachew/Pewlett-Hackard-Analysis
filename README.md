@@ -7,12 +7,15 @@ The purpose of this analysis is to conduct a Database analysis for Pewlett Hacka
 
 # Resorces:
 
-Softwate: SQL, PostgreSQL and pgAdmin
-Data Source: departments.csv, dept_emp.csv, dept_manager.csv, employees.csv, salaries.csv, titles.csv
+-Softwate: SQL, PostgreSQL and pgAdmin
+-Data Source: departments.csv, dept_emp.csv, dept_manager.csv, employees.csv, salaries.csv, titles.csv
 
 # Results
 
-• By using an online tool called Quick Database Diagrams, we created a conceptual Entity Relationship Diagram (ERD) to design and visualize the database table relationships. 
+•  By using an online tool called Quick Database Diagrams, we created a conceptual Entity Relationship Diagram (ERD) to design and visualize the database table relationships. 
 
 ![EmployeeDB](https://user-images.githubusercontent.com/101952961/169726017-fc1919e6-d7c7-42a9-9f0f-440268bb659c.png)
 
+•	Based on our analysis, there is currently a total of $72,458 employees that will retire soon and 70% of this group hold senior positions (50,842/72,458 * 100) = 70. 16%. From the job titles of the eligible retirees, the breakdown is below:
+
+![Retiring_Titles](https://user-images.githubusercontent.com/101952961/169729644-1354f102-7d97-4c23-b3fb-e45513baaae6.png)
