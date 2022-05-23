@@ -93,6 +93,10 @@ FROM employees
 WHERE (birth_date BETWEEN '1952-01-01' AND '1955-12-31')
 AND (hire_date BETWEEN '1985-01-01' AND '1988-12-31');
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 44ad09fe37e2492c5525a42980fbe7600d77cb00
 -- Number of employees retiring
 SELECT COUNT(first_name)
 FROM employees
@@ -104,6 +108,7 @@ SELECT first_name, last_name
 INTO retirement_info
 FROM employees
 WHERE (birth_date BETWEEN '1952-01-01' AND '1955-12-31')
+<<<<<<< HEAD
 AND (hire_date BETWEEN '1985-01-01' AND '1988-12-31');
 
 DROP TABLE retirement_info;
@@ -301,3 +306,6 @@ AND (de.to_date = '9999-01-01')
 ORDER BY emp_no;
 
 --SELECT * FROM mentorship_eligibility
+=======
+AND (hire_date BETWEEN '1985-01-01' AND '1988-12-31');
+>>>>>>> 44ad09fe37e2492c5525a42980fbe7600d77cb00
